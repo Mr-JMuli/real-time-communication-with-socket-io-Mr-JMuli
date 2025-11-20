@@ -1,5 +1,5 @@
 # Real-Time Chat Application with Socket.io
-Live site: https://github.com/Mr-JMuli/real-time-communication-with-socket-io-Mr-JMuli.git
+Live site: https://real-time-communication-with-socket-io-mr-j-muli-gz6i5aqqs.vercel.app/
 
 A full-featured real-time chat app with rooms, private messaging, typing indicators, read receipts, file sharing, and notifications.
 
